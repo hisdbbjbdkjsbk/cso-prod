@@ -1,0 +1,166 @@
+@font-face {font-family: "HalisR-SRegular";
+  src: url("d2519eb41a36e5f0c47ccd5eb3820e4a.eot"); /* IE9*/
+  src: url("d2519eb41a36e5f0c47ccd5eb3820e4a.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+  url("d2519eb41a36e5f0c47ccd5eb3820e4a.woff2") format("woff2"), /* chrome、firefox */
+  url("d2519eb41a36e5f0c47ccd5eb3820e4a.woff") format("woff"), /* chrome、firefox */
+  url("d2519eb41a36e5f0c47ccd5eb3820e4a.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+  url("d2519eb41a36e5f0c47ccd5eb3820e4a.svg#HalisR-SRegular") format("svg"); /* iOS 4.1- */
+}
+
+@font-face {
+    font-family: 'Halis R Book';
+    src: url('/fonts/HalisR-Book.eot');
+    src: url('/fonts/HalisR-Book.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/HalisR-Book.woff2') format('woff2'),
+        url('/fonts/HalisR-Book.woff') format('woff'),
+        url('/fonts/HalisR-Book.ttf') format('truetype'),
+        url('/fonts/HalisR-Book.svg#HalisR-Book') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Halis R';
+    src: url('/fonts/HalisR-Bold.eot');
+    src: url('/fonts/HalisR-Bold.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/HalisR-Bold.woff2') format('woff2'),
+        url('/fonts/HalisR-Bold.woff') format('woff'),
+        url('/fonts/HalisR-Bold.ttf') format('truetype'),
+        url('/fonts/HalisR-Bold.svg#HalisR-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Halis R';
+    src: url('/fonts/HalisR-Black.eot');
+    src: url('/fonts/HalisR-Black.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/HalisR-Black.woff2') format('woff2'),
+        url('/fonts/HalisR-Black.woff') format('woff'),
+        url('/fonts/HalisR-Black.ttf') format('truetype'),
+        url('/fonts/HalisR-Black.svg#HalisR-Black') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Halis R';
+    src: url('/fonts/HalisR-ExtraLight.eot');
+    src: url('/fonts/HalisR-ExtraLight.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/HalisR-ExtraLight.woff2') format('woff2'),
+        url('/fonts/HalisR-ExtraLight.woff') format('woff'),
+        url('/fonts/HalisR-ExtraLight.ttf') format('truetype'),
+        url('/fonts/HalisR-ExtraLight.svg#HalisR-ExtraLight') format('svg');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Halis R';
+    src: url('/fonts/HalisR-Light.eot');
+    src: url('/fonts/HalisR-Light.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/HalisR-Light.woff2') format('woff2'),
+        url('/fonts/HalisR-Light.woff') format('woff'),
+        url('/fonts/HalisR-Light.ttf') format('truetype'),
+        url('/fonts/HalisR-Light.svg#HalisR-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Halis R';
+    src: url('/fonts/HalisR-Medium.eot');
+    src: url('/fonts/HalisR-Medium.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/HalisR-Medium.woff2') format('woff2'),
+        url('/fonts/HalisR-Medium.woff') format('woff'),
+        url('/fonts/HalisR-Medium.ttf') format('truetype'),
+        url('/fonts/HalisR-Medium.svg#HalisR-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Halis R';
+    src: url('/fonts/HalisR-Regular.eot');
+    src: url('/fonts/HalisR-Regular.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/HalisR-Regular.woff2') format('woff2'),
+        url('/fonts/HalisR-Regular.woff') format('woff'),
+        url('/fonts/HalisR-Regular.ttf') format('truetype'),
+        url('/fonts/HalisR-Regular.svg#HalisR-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Halis R';
+    src: url('/fonts/HalisR-Thin.eot');
+    src: url('/fonts/HalisR-Thin.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/HalisR-Thin.woff2') format('woff2'),
+        url('/fonts/HalisR-Thin.woff') format('woff'),
+        url('/fonts/HalisR-Thin.ttf') format('truetype'),
+        url('/fonts/HalisR-Thin.svg#HalisR-Thin') format('svg');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Interstate';
+    src: url('/fonts/Interstate.eot');
+    src: url('/fonts/Interstate.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/Interstate.woff2') format('woff2'),
+        url('/fonts/Interstate.woff') format('woff'),
+        url('/fonts/Interstate.ttf') format('truetype'),
+        url('/fonts/Interstate.svg#HalisR-Thin') format('svg');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Interstate Bold';
+    src: url('/fonts/Interstate Bold.eot');
+    src: url('/fonts/Interstate Bold.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/Interstate Bold.woff2') format('woff2'),
+        url('/fonts/Interstate Bold.woff') format('woff'),
+        url('/fonts/Interstate Bold.ttf') format('truetype'),
+        url('/fonts/Interstate Bold.svg#HalisR-Thin') format('svg');
+    font-weight: Bold;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'InterstateCond';
+    src: url('/fonts/InterstateCond.eot');
+    src: url('/fonts/InterstateCond.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/InterstateCond.woff2') format('woff2'),
+        url('/fonts/InterstateCond.woff') format('woff'),
+        url('/fonts/InterstateCond.ttf') format('truetype'),
+        url('/fonts/InterstateCond.svg#HalisR-Thin') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'InterstateLight';
+    src: url('/fonts/InterstateLight.eot');
+    src: url('/fonts/InterstateLight.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/InterstateLight.woff2') format('woff2'),
+        url('/fonts/InterstateLight.woff') format('woff'),
+        url('/fonts/InterstateLight.ttf') format('truetype'),
+        url('/fonts/InterstateLight.svg#HalisR-Thin') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face{font-family:icomoon;src:url(/fonts/icomoon.eot) format("embedded-opentype"),url(/fonts/icomoon.ttf) format("truetype"),url(/fonts/icomoon.woff) format("woff"),url(/fonts/icomoon.woff2) format("woff2"),url(/fonts/icomoon.svg) format("svg");font-weight:400;font-style:normal;font-display:swap}[class*=" icon-"]:before,[class^=icon-]:before{font-family:icomoon!important;speak:none;font-style:normal;font-weight:400;font-feature-settings:normal;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.icon-parameters:before{content:"\e900"}.icon-checked:before{content:"\e901"}.icon-model{position:relative}.icon-model:before{content:"\e902"}.icon-model:after{display:inline-block;position:absolute;height:2px;width:2px;background:#fff;border-radius:100%;content:"";top:50%;left:50%;transform:translate(-50%,-50%)}.icon-weibo:before{content:"\e903";font-size:1.1rem}.icon-arrow-down:before{content:"\e904"}.icon-burger:before{content:"\e905"}.icon-down:before{content:"\e906"}.icon-next:before{content:"\e907"}.icon-play:before{content:"\e908"}.icon-previous:before{content:"\e909"}.icon-cross:before{content:"\e90a"}.icon-search:before{content:"\e90b"}.icon-facebook:before{content:"\e90c"}.icon-twitter1:before{content:"\e90d"}.icon-instagram1:before{content:"\e90e"}.icon-monogramme:before{content:"\e90f"}.icon-Vimeo:before{content:"\e910"}.icon-sun:before{content:"\e911"}.icon-moon:before{content:"\e912"}.icon-youtube:before{content:"\e913";font-size:1.2rem;margin:0 1px}.icon-arrow-link:before{content:"\e914"}.icon-next-bold:before{content:"\e915"}.icon-drag{position:relative;display:block;background-image:linear-gradient(90deg,hsla(0,0%,100%,.3),#fff 45%);-webkit-background-clip:text;-webkit-text-fill-color:transparent}.icon-drag:before{content:"\e916"}.icon-error:before{content:"\e917";color:#b12626}.icon-email{top:53%!important}.icon-email:before{content:"\e918"}.icon-phone{top:54%!important;left:49%!important}.icon-phone:before{content:"\e919"}.icon-location{left:45%!important;top:55%!important}.icon-location:before{content:"\e91a"}
+
+
+
+
+
